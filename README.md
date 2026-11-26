@@ -3,7 +3,7 @@
 I built this Power BI dashboard to visualize survey responses from 630 participants. The report brings together respondent demographics, compensation by role, programming language preferences, and experiences entering the data field.
 
 ![Power BI dashboard showing the Data Professional Survey Breakdown](dashboard.png)
-
+[Download the Power BI report](data-professional-survey.pbix) and open it in Power BI Desktop.
 ## What the dashboard shows
 
 | View | What it measures |
